@@ -1,7 +1,3 @@
-# Midterm Project – CS 634 Data Mining
-
-### Student: Risha R. Dinesh  
-### Course: CS 634 – Data Mining (Fall 2025)
 
 This repository contains the complete midterm project implementation for
 Frequent Itemset Mining and Association Rule Learning using Brute-Force,
